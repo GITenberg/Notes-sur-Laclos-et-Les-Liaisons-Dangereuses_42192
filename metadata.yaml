@@ -1,0 +1,30 @@
+_repo: Notes-sur-Laclos-et-Les-Liaisons-Dangereuses_42192
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42192-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Mossé, George
+    alias: Mosse, George
+    gutenberg_agent_id: '41567'
+    url: http://www.gutenberg.org/2009/agents/41567
+  - agent_name: Boisjoslin, Jacques de
+    gutenberg_agent_id: '41566'
+    url: http://www.gutenberg.org/2009/agents/41566
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42192'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Laclos, Choderlos de, 1741-1803'
+- !lcsh 'Laclos, Choderlos de, 1741-1803. Liaisons dangereuses'
+- !lcc 'PQ'
+title: Notes sur Laclos et Les Liaisons Dangereuses
+url: http://www.gutenberg.org/ebooks/42192
