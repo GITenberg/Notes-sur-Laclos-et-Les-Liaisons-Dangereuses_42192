@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '41566'
     url: http://www.gutenberg.org/2009/agents/41566
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42192#Notes-sur-Laclos-et-Les-Liaisons-Dangereuses
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-02-25'
 gutenberg_type: Text
